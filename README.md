@@ -6,4 +6,4 @@ Application will calculate your viewport width, height and fill with small cubes
 Each cube has its own state and when clicked/hovered it will change state. 
 
 
-Demo - www.reactstatemachine.netlify.app
+Demo - https://www.reactstatemachine.netlify.app
